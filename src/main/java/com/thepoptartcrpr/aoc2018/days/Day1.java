@@ -1,4 +1,4 @@
-package com.thepoptartcrpr.aoc2018.days.day1;
+package com.thepoptartcrpr.aoc2018.days;
 
 import com.thepoptartcrpr.aoc2018.days.Day;
 import com.thepoptartcrpr.aoc2018.utils.NumberUtils;
