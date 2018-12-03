@@ -3,6 +3,7 @@
 *.iml
 
 # Artifacts
+/out
 /META-INF
 *.jar
 *.MF
