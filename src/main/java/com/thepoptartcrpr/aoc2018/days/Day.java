@@ -29,6 +29,7 @@ public abstract class Day {
             String output1 = this.calculatePart1();
             if (output1 != null) StringUtils.writeToFile(new File("src/main/resources/days/day" + this.day + "/solution1.txt"), output1);
             String output2 = this.calculatePart2();
+            if (output2 != null) StringUtils.writeToFile(new File("src/main/resources/days/day" + this.day + "/solution2.txt"), output2);
         } catch(Exception e) {
             e.printStackTrace();
         }
