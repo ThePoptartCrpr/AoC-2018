@@ -1,12 +1,11 @@
 package com.thepoptartcrpr.aoc2018;
 
-import com.thepoptartcrpr.aoc2018.days.Day;
-import com.thepoptartcrpr.aoc2018.days.Day1;
+import com.thepoptartcrpr.aoc2018.days.*;
 
 public class Main {
 
     public static void main(String[] args) {
-       Day day = new Day1();
+       Day day = new Day2();
        day.run();
     }
 
